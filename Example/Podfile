@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SMJJSONPath_Tests' do
+  pod 'SMJJSONPath', :path => '../'
+  
+  
+end
