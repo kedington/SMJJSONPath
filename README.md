@@ -22,8 +22,15 @@ pod 'SMJJSONPath'
 
 ## Author
 
-kedington, kevin.edington@snapito.com
+Coco Pods Adaption 
+kedington, kevin.edington@snapiot.com
+
+Original Author
+javerous 
+
+All credit goes to him you can view his implementation here: 
+https://github.com/javerous/SMJJSONPath
 
 ## License
 
-SMJJSONPath is available under the MIT license. See the LICENSE file for more info.
+SMJJSONPath is available under the Apache license. See the LICENSE file for more info.
