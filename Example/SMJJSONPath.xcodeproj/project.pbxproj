@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		48D157D0F46A51656A70331B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		48D157D0F46A51656A70331B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -28,8 +28,8 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		6596FE123321BC0190026E03 /* Pods_SMJJSONPath_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SMJJSONPath_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		971220590C585D79C84741F1 /* Pods-SMJJSONPath_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SMJJSONPath_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SMJJSONPath_Tests/Pods-SMJJSONPath_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A92777887F23A587BA666AA7 /* SMJJSONPath.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SMJJSONPath.podspec; path = ../SMJJSONPath.podspec; sourceTree = "<group>"; };
-		AF8FB5C9204D6F2073DA2FEC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A92777887F23A587BA666AA7 /* SMJJSONPath.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SMJJSONPath.podspec; path = ../SMJJSONPath.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AF8FB5C9204D6F2073DA2FEC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		BD305EE0ED3A9D9C851F9264 /* Pods-SMJJSONPath_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SMJJSONPath_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SMJJSONPath_Tests/Pods-SMJJSONPath_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
