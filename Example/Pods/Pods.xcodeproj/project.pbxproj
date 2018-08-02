@@ -165,10 +165,10 @@
 		0BF7676F21138B4000341A5B /* SMJValueNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMJValueNode.h; sourceTree = "<group>"; };
 		0BF7677021138B4000341A5B /* SMJValueNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMJValueNode.m; sourceTree = "<group>"; };
 		0BF7677121138B4000341A5B /* SMJWildcardPathToken.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMJWildcardPathToken.m; sourceTree = "<group>"; };
+		0BF7677621138C6400341A5B /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		34144FDA8AF427EA381E0E4CE0750D61 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F911B80F5827FC67FF39355571D4117 /* SMJJSONPath.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SMJJSONPath.modulemap; sourceTree = "<group>"; };
 		4088939FE6BC63D3F05816146F157332 /* SMJJSONPath-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SMJJSONPath-dummy.m"; sourceTree = "<group>"; };
-		4AB5A5399B8F12F7103CEABB30C18E9C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		57C096AB9979DFDC0646EF8CC4BECAE0 /* SMJJSONPath-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SMJJSONPath-prefix.pch"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		73729FA544CD843F965484F07B840D66 /* Pods-SMJJSONPath_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SMJJSONPath_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -295,7 +295,7 @@
 		2330C05FDA29DF3964860276FF280E86 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				4AB5A5399B8F12F7103CEABB30C18E9C /* LICENSE */,
+				0BF7677621138C6400341A5B /* LICENSE */,
 				C83F701D1547BE0A527A9D5D952808A6 /* README.md */,
 				9791574A90D4BC41F18887FBDF588FAB /* SMJJSONPath.podspec */,
 			);
